@@ -9,7 +9,7 @@ A high-performance Flask-based API for storing and retrieving chat messages usin
 - Automatic room ID generation for quick querying.
 - Time-sorted message retrieval.
 
-## 📊 Database Schema MongoDB
+## 📊 Database Schema MongoDB)
 
 The messages are stored in a collection named `messages` within the `chat_database`.
 
